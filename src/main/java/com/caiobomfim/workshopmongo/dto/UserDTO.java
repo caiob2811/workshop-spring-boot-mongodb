@@ -2,7 +2,7 @@ package com.caiobomfim.workshopmongo.dto;
 
 import java.io.Serializable;
 
-import com.caiobomfim.workshomongo.domain.User;
+import com.caiobomfim.workshopmongo.domain.User;
 
 public class UserDTO implements Serializable{
 	private static final long serialVersionUID = 1L;

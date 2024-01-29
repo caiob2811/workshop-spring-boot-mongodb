@@ -9,7 +9,7 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 
-import com.caiobomfim.workshomongo.domain.User;
+import com.caiobomfim.workshopmongo.domain.User;
 import com.caiobomfim.workshopmongo.dto.UserDTO;
 import com.caiobomfim.workshopmongo.services.UserService;
 

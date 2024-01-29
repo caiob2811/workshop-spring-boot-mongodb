@@ -1,4 +1,4 @@
-package com.caiobomfim.workshomongo.domain;
+package com.caiobomfim.workshopmongo.domain;
 
 import java.io.Serializable;
 import java.util.Objects;
